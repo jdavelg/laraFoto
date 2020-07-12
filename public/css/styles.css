@@ -1,0 +1,57 @@
+.navbar .container-avatar{
+    border-radius: 900px;
+
+}
+.image-container{
+    width: 100%;
+
+    height: auto;
+    overflow: hidden;
+}
+.image-container img{
+    width: 100%;
+}
+.card{
+    margin-bottom: 35px;
+}
+.card-body{
+    padding: 0px;
+}
+.description{
+    padding-left:  27px;
+    padding-top: 10px;
+}
+.btn-comments{
+    margin: 20px;
+    margin-top: 0px;
+    text-decoration: none;
+    width: 120px;
+}
+.likeand{
+    margin-top: -4px;
+}
+
+.likes{
+    float: left;
+    padding: 20px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin: 22px;
+    padding-right: 15px;
+    margin-left: 15px;
+    margin-top: 4px
+}
+
+.likes img{
+
+    width: 20px;  
+}
+.comment{
+}
+
+.numer_likes{
+    color: gray;
+    font-size: 11px;
+}
+
+
