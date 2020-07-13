@@ -1,0 +1,3 @@
+ "dbname=d7a24rjqrktu0n host=ec2-34-239-241-25.compute-1.amazonaws.com port=5432 user=qfmninebhlmjjq password=b26d07eca3e853ef9a74c5fd557e065d155bc4c31a6a34b8524bb3776032708b sslmode=require"
+Connection URL:
+   postgres://qfmninebhlmjjq:b26d07eca3e853ef9a74c5fd557e065d155bc4c31a6a34b8524bb3776032708b@ec2-34-239-241-25.compute-1.amazonaws.com:5432/d7a24rjqrktu0n
