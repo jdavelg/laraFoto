@@ -1,4 +1,4 @@
-var url = 'https://ancient-dawn-91159.herokuapp.com/';
+var url = 'https://secure-meadow-51659.herokuapp.com/';
 
 window.addEventListener("load", function() {
     $('.btn-like').css('cursor', 'pointer');
