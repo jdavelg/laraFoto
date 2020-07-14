@@ -18,8 +18,8 @@ class CreateImageTable extends Migration
             $table->bigInteger('user_id');
             $table->string('image_path')->nullable($value = true);
             $table->string('description')->nullable($value = true);
-            $table->timestamps('create_at');
-            $table->timestamps('update_at');
+            $table->timestamps();
+           
 
             $table->foreign('user_id')->references('id')->on('users');
         });

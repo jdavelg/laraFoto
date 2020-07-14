@@ -18,8 +18,8 @@ class CreateCommentsTable extends Migration
 $table->bigInteger('user_id');
 $table->bigInteger('image_id');
 $table->string('content')->nullable($value=true);
-            $table->timestamps('create_at');
-            $table->timestamps('update_at');
+            $table->timestamps();
+         
 
             $table->foreign('user_id')->references('id')->on('users');
             $table->foreign('image_id')->references('id')->on('images');
