@@ -1,4 +1,4 @@
-var url = 'http://proyectolaravel.com.devel/';
+var url = 'https://ancient-dawn-91159.herokuapp.com/';
 
 window.addEventListener("load", function() {
     $('.btn-like').css('cursor', 'pointer');
